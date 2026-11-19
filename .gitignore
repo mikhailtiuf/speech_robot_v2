@@ -4,8 +4,9 @@ vosk-model*/
 __pycache__/
 *.pyc
 *.wav
+*.mp3
 *.pcm
 *.log
+logs/
 .env
 .env.*
-logs/
